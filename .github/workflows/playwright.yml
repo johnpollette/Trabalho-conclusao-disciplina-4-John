@@ -33,4 +33,4 @@ jobs:
 
       # executar os testes
       - name: Executando testes 
-        run: yarn test
+        run: npm test
